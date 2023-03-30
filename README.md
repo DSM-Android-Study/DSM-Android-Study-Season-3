@@ -4,8 +4,8 @@
 
 > DSM 1학년(9기),2학년(8기), 3학년(7기)를 위한 안드로이드 팀 스터디입니다.
 
-[DSM Android Study Season1](https://github.com/DSM-Android-Study/DSM-Android-Study)
-[DSM Android Study Season2](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2)
+* [DSM Android Study Season1](https://github.com/DSM-Android-Study/DSM-Android-Study)
+* [DSM Android Study Season2](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2)
 
 
 ### 📘 규칙
