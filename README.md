@@ -30,3 +30,9 @@
 * 김연우(8기) - [Widget](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-3/tree/main/2023.03.30/%EA%B9%80%EC%97%B0%EC%9A%B0)
 * 임세현(7기) - [오누리 인턴 후기](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-3/tree/main/2023.03.30/%EC%9E%84%EC%84%B8%ED%98%84)
 * 이용진(7기) - []
+
+[ 2회차 2023.04.06]
+
+* 최하은(8기) - [테스트 코드](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-3/tree/main/2023.04.06/%EC%B5%9C%ED%95%98%EC%9D%80)
+* 김은오(8기) - []
+* 정승훈(8기) - []
