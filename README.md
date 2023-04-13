@@ -40,3 +40,4 @@
 [ 3회차 2023.04.13 ]
 
 * 박준수(8기) - [Activity의 생명 주기](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-3/blob/main/2023.04.13/Activity(%EB%B0%95%EC%A4%80%EC%88%98).md)
+* 이준범(7기) - [WebRTC](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-3/blob/main/2023.04.13/WebRTC.pptx)
